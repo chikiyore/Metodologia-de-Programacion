@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1698313703 source:c:\users\jarro\desktop\copia practica 1\practica 1 mp\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+	"Fecha.h"
+
+1698313670 c:\users\jarro\desktop\copia practica 1\practica 1 mp\include\cliente.h
+	<Fecha.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+
+1698313639 c:\users\jarro\desktop\copia practica 1\practica 1 mp\include\fecha.h
+	"iostream"
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+
+1698312866 source:c:\users\jarro\desktop\copia practica 1\practica 1 mp\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+
+1698313730 source:c:\users\jarro\desktop\copia practica 1\practica 1 mp\src\fecha.cpp
+	"Fecha.h"
+	"iostream"
+
+1699812010 source:c:\users\jarro\desktop\copia practica 1\practica 1.1 mp\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+
+1698324260 c:\users\jarro\desktop\copia practica 1\practica 1.1 mp\include\fecha.h
+	"iostream"
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+
+1698324260 c:\users\jarro\desktop\copia practica 1\practica 1.1 mp\include\cliente.h
+	<Fecha.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+
+1698310103 source:c:\users\jarro\desktop\copia practica 1\practica 1.1 mp\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+	"Fecha.h"
+
+1698310130 source:c:\users\jarro\desktop\copia practica 1\practica 1.1 mp\src\fecha.cpp
+	"Fecha.h"
+	"iostream"
+
+1699812010 source:c:\users\jarro\desktop\metodologia\practica 1.1 mp\main.cpp
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+
+1698324260 c:\users\jarro\desktop\metodologia\practica 1.1 mp\include\fecha.h
+	"iostream"
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+
+1698324260 c:\users\jarro\desktop\metodologia\practica 1.1 mp\include\cliente.h
+	<Fecha.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+
+1698310103 source:c:\users\jarro\desktop\metodologia\practica 1.1 mp\src\cliente.cpp
+	"Cliente.h"
+	<cstring>
+	"Fecha.h"
+
+1698310130 source:c:\users\jarro\desktop\metodologia\practica 1.1 mp\src\fecha.cpp
+	"Fecha.h"
+	"iostream"
+
